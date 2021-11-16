@@ -1,4 +1,4 @@
 Hello this is a test to change my main file in nano.
 im learning git and its really exciting for me.
 hope you enjoy it.
-
+This is a new change on my file to check how git diff works.

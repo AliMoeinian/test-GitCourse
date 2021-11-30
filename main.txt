@@ -3,3 +3,6 @@ im learning git and its really exciting for me.
 hope you enjoy it.
 This is a new change on my file to check how git diff works.
 I enter this last line to check how diff works again.
+i add this line to learn more about git commands and i really like git.
+i add this line to use git commit --amend and lets see what going to happen
+i add this line after i make the error correct and now lets test.

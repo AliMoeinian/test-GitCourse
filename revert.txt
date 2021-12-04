@@ -1,6 +1,6 @@
-line 1 -> i edit this line to check revert command
+line 1
 line 2
-line 3
-line 4
+line 3 -> This line changed for the second time
+line 4 -> this line changed for the second time
 line 5
 

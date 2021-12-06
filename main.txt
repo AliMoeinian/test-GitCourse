@@ -12,6 +12,6 @@ new line added -> edited
 line 12 added
 line 13
 line 14
-line 15
+line 15 -> this line changer from feature 5 to make a conflict and figure out what should i do to fix it.
 line 16
 we assume that in this line we had a bug and now the bug is fixed.

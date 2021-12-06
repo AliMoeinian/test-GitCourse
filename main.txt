@@ -10,3 +10,6 @@ im using vscode now and i add this line to test vscode.
 this line added to test git rebase
 new line added -> edited
 line 12 added
+line 13
+line 14
+line 15

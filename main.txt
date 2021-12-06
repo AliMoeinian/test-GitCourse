@@ -9,3 +9,4 @@ i add this line after i make the error correct and now lets test.
 im using vscode now and i add this line to test vscode.
 this line added to test git rebase
 new line added
+line 12 added
